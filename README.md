@@ -1,1 +1,1 @@
-"# AWS + AI Platform Engineer Roadmap" 
+# AWS + AI Platform Engineer Roadmap
