@@ -1,3 +1,0 @@
-AWS account created
-Learning Git and GitHub
-First repository created
